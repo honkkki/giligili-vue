@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>欢迎来到giligili</h1>
+    <h1>欢迎</h1>
   </div>
 </template>
