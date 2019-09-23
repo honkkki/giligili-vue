@@ -1,7 +1,7 @@
 <template>
     <el-menu class="top-bar" mode="horizontal" router>
         <el-menu-item index="/">首页</el-menu-item>
-        <el-menu-item index="/submit">投稿</el-menu-item>
+        <el-menu-item index="/videoSubmit">投稿</el-menu-item>
         <el-menu-item index="/about">关于我们</el-menu-item>
     </el-menu>
 </template>
@@ -17,6 +17,5 @@
 <style scoped lang="scss">
 .top-bar {
     margin-bottom: 10px;
-
 }
 </style>

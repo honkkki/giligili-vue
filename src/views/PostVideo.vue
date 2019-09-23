@@ -115,7 +115,7 @@ export default {
     border-color: #409EFF;
   }
 
-  .avatar-uploader-icon {
+  .avatar-uploader .avatar-uploader-icon {
     font-size: 28px;
     color: #8c939d;
     width: 178px;

@@ -16,8 +16,8 @@ export default new Router({
             component: Home
         },
         {
-            path: '/submit',
-            name: 'submit',
+            path: '/videoSubmit',
+            name: 'videoSubmit',
             component: Submit
         },
         {
